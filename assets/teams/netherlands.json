@@ -1,0 +1,475 @@
+[
+    {
+      "name": [
+         "Ajax"
+      ],
+      "full_name": "AFC Ajax",
+      "country": "Netherlands",
+      "continent": "Europe",
+      "zone": [
+         "Saxon",
+         "West"
+      ],
+      "kit_colors": [
+         "red",
+         "white"
+      ],
+      "logo_features": [
+         "human",
+         "text",
+         "mythology"
+      ],
+      "trophy": [
+         "ucl",
+         "uel",
+         "cup winners cup",
+         "title",
+         "cup",
+         "uefa super cup",
+         "club world cup"
+      ]
+   },
+   {
+      "name": [
+         "PSV",
+         "Eindhoven"
+      ],
+      "full_name": "PSV Eindhoven",
+      "country": "Netherlands",
+      "continent": "Europe",
+      "zone": [
+         "West",
+         "Saxon"
+      ],
+      "kit_colors": [
+         "red",
+         "white",
+         "black"
+      ],
+      "logo_features": [
+         "oval",
+         "stripes",
+         "flag",
+         "text",
+         "star"
+      ],
+      "trophy": [
+         "ucl",
+         "uel",
+         "title",
+         "cup"
+      ]
+   },
+   {
+      "name": [
+         "Feyenoord",
+         "Feijenoord",
+         "Feynoord"
+      ],
+      "full_name": "Feyenoord Rotterdam",
+      "country": "Netherlands",
+      "continent": "Europe",
+      "zone": [
+         "West",
+         "Saxon"
+      ],
+      "kit_colors": [
+         "red",
+         "white",
+         "black"
+      ],
+      "logo_features": [
+         "circle",
+         "letter",
+         "text"
+      ],
+      "trophy": [
+         "ucl",
+         "uel",
+         "club world cup",
+         "title",
+         "cup"
+      ]
+   },
+      {
+      "name": [
+         "AZ",
+         "Alkmaar"
+      ],
+      "full_name": "AZ Alkmaar",
+      "country": "Netherlands",
+      "continent": "Europe",
+      "zone": [
+         "West",
+         "Saxon"
+      ],
+      "kit_colors": [
+         "white",
+         "red"
+      ],
+      "logo_features": [
+         "letters",
+         "text"
+      ],
+      "trophy": [
+         "title",
+         "cup"
+      ]
+   },
+   {
+      "name": [
+         "Utrecht"
+      ],
+      "full_name": "FC Utrecht",
+      "country": "Netherlands",
+      "continent": "Europe",
+      "zone": [
+         "West",
+         "Saxon"
+      ],
+      "kit_colors": [
+         "red",
+         "white"
+      ],
+      "logo_features": [
+         "text",
+         "letters",
+         "shield"
+      ],
+      "trophy": [
+         "cup"
+      ]
+   },
+   {
+      "name": [
+         "Twente"
+      ],
+      "full_name": "FC Twente Enschede",
+      "country": "Netherlands",
+      "continent": "Europe",
+      "zone": [
+         "West",
+         "Saxon"
+      ],
+      "kit_colors": [
+         "red",
+         "white"
+      ],
+      "logo_features": [
+         "animal",
+         "horse",
+         "text"
+      ],
+      "trophy": [
+         "intertoto",
+         "title",
+         "cup"
+      ]
+   },
+   {
+      "name": [
+         "Nijmegen"
+      ],
+      "full_name": "NEC Nijmegen",
+      "country": "Netherlands",
+      "continent": "Europe",
+      "zone": [
+         "West",
+         "Saxon"
+      ],
+      "kit_colors": [
+         "red",
+         "green",
+         "black"
+      ],
+      "logo_features": [
+         "animal",
+         "bird",
+         "eagle",
+         "text",
+         "letters",
+         "stripes"
+      ],
+      "trophy": [
+         ""
+      ]
+   },
+   {
+      "name": [
+         "Heerenveen"
+      ],
+      "full_name": "SC Heerenveen",
+      "country": "Netherlands",
+      "continent": "Europe",
+      "zone": [
+         "West",
+         "Saxon"
+      ],
+      "kit_colors": [
+         "white",
+         "blue"
+      ],
+      "logo_features": [
+         "heart",
+         "text",
+         "shield"
+      ],
+      "trophy": [
+         "cup"
+      ]
+   },
+   {
+      "name": [
+         "Groningen"
+      ],
+      "full_name": "FC Groningen",
+      "country": "Netherlands",
+      "continent": "Europe",
+      "zone": [
+         "West",
+         "Saxon"
+      ],
+      "kit_colors": [
+         "green",
+         "white"
+      ],
+      "logo_features": [
+         "circle",
+         "text",
+         "monogram"
+      ],
+      "trophy": [
+         "cup"
+      ]
+   },
+   {
+      "name": [
+         "Go Ahead Eagles"
+      ],
+      "full_name": "Go Ahead Eagles",
+      "country": "Netherlands",
+      "continent": "Europe",
+      "zone": [
+         "West",
+         "Saxon"
+      ],
+      "kit_colors": [
+         "yellow",
+         "orange",
+         "red"
+      ],
+      "logo_features": [
+         "bird",
+         "animal",
+         "eagle",
+         "ball",
+         "castle",
+         "text"
+      ],
+      "trophy": [
+         "title",
+         "cup"
+      ]
+   },
+   {
+      "name": [
+         "Sparta Rotterdam"
+      ],
+      "full_name": "Sparta Rotterdam",
+      "country": "Netherlands",
+      "continent": "Europe",
+      "zone": [
+         "West",
+         "Saxon"
+      ],
+      "kit_colors": [
+         "red",
+         "white",
+         "black"
+      ],
+      "logo_features": [
+         "circle",
+         "text",
+         "ball",
+         "human"
+      ],
+      "trophy": [
+         "title",
+         "cup"
+      ]
+   },
+   {
+      "name": [
+         "PEC",
+         "Zwolle"
+      ],
+      "full_name": "PEC Zwolle",
+      "country": "Netherlands",
+      "continent": "Europe",
+      "zone": [
+         "West",
+         "Saxon"
+      ],
+      "kit_colors": [
+         "blue",
+         "white"
+      ],
+      "logo_features": [
+         "text",
+         "shield",
+         "coat of arms"
+      ],
+      "trophy": [
+         "cup"
+      ]
+   },
+   {
+      "name": [
+         "Fortuna",
+         "Sittard"
+      ],
+      "full_name": "Fortuna Sittard",
+      "country": "Netherlands",
+      "continent": "Europe",
+      "zone": [
+         "West",
+         "Saxon"
+      ],
+      "kit_colors": [
+         "yellow",
+         "green"
+      ],
+      "logo_features": [
+         "human",
+         "ball",
+         "text"
+      ],
+      "trophy": [
+         ""
+      ]
+   },
+   {
+      "name": [
+         "Volendam"
+      ],
+      "full_name": "Volendam",
+      "country": "Netherlands",
+      "continent": "Europe",
+      "zone": [
+         "West",
+         "Saxon"
+      ],
+      "kit_colors": [
+         "orange",
+         "white"
+      ],
+      "logo_features": [
+         "shield",
+         "text",
+         "ball",
+         "ship"
+      ],
+      "trophy": [
+         ""
+      ]
+   },
+   {
+      "name": [
+         "Excelsior"
+      ],
+      "full_name": "Excelsior Rotterdam",
+      "country": "Netherlands",
+      "continent": "Europe",
+      "zone": [
+         "West",
+         "Saxon"
+      ],
+      "kit_colors": [
+         "black",
+         "red",
+         "white"
+      ],
+      "logo_features": [
+         "circle",
+         "text"
+      ],
+      "trophy": [
+         ""
+      ]
+   },
+   {
+      "name": [
+         "NAC Breda"
+      ],
+      "full_name": "NAC Breda",
+      "country": "Netherlands",
+      "continent": "Europe",
+      "zone": [
+         "West",
+         "Saxon"
+      ],
+      "kit_colors": [
+         "yellow",
+         "black"
+      ],
+      "logo_features": [
+         "shield",
+         "letters",
+         "text"
+      ],
+      "trophy": [
+         "title",
+         "cup"
+      ]
+   },
+   {
+      "name": [
+         "Heracles"
+      ],
+      "full_name": "Heracles",
+      "country": "Netherlands",
+      "continent": "Europe",
+      "zone": [
+         "West",
+         "Saxon"
+      ],
+      "kit_colors": [
+         "white",
+         "black"
+      ],
+      "logo_features": [
+         "shield",
+         "text",
+         "stripes",
+         "diamond",
+         "human"
+      ],
+      "trophy": [
+         "title"
+      ]
+   },
+   {
+      "name": [
+         "Telstar"
+      ],
+      "full_name": "Telstar",
+      "country": "Netherlands",
+      "continent": "Europe",
+      "zone": [
+         "West",
+         "Saxon"
+      ],
+      "kit_colors": [
+         "white",
+         "red",
+         "blue"
+      ],
+      "logo_features": [
+         "text",
+         "torch"
+      ],
+      "trophy": [
+         ""
+      ]
+   }
+]

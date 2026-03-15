@@ -1,0 +1,564 @@
+[
+    {
+      "name": [
+         "Milan",
+         "AC Milan"
+      ],
+      "full_name": "AC Milan",
+      "country": "Italy",
+      "continent": "Europe",
+      "zone": [
+         "South",
+         "Mediterranean",
+         "Roman"
+      ],
+      "kit_colors": [
+         "red",
+         "black",
+         "white"
+      ],
+      "logo_features": [
+         "flag",
+         "text",
+         "oval"
+      ],
+      "trophy": [
+         "ucl",
+         "cup winners cup",
+         "title",
+         "cup",
+         "uefa super cup",
+         "club world cup"
+      ]
+   },
+   {
+      "name": [
+         "Inter",
+         "Internazionale"
+      ],
+      "full_name": "Inter",
+      "country": "Italy",
+      "continent": "Europe",
+      "zone": [
+         "South",
+         "Mediterranean",
+         "Roman"
+      ],
+      "kit_colors": [
+         "blue",
+         "black"
+      ],
+      "logo_features": [
+         "monogram",
+         "circle"
+      ],
+      "trophy": [
+         "ucl",
+         "uel",
+         "title",
+         "cup",
+         "uefa super cup",
+         "club world cup"
+      ]
+   },
+   {
+      "name": [
+         "Juventus",
+         "Juve"
+      ],
+      "full_name": "Juventus FC",
+      "country": "Italy",
+      "continent": "Europe",
+      "zone": [
+         "South",
+         "Mediterranean",
+         "Roman"
+      ],
+      "kit_colors": [
+         "black",
+         "white"
+      ],
+      "logo_features": [
+         "letter"
+      ],
+      "trophy": [
+         "ucl",
+         "uel",
+         "title",
+         "cup",
+         "uefa super cup"
+      ]
+   },
+   {
+      "name": [
+         "Napoli"
+      ],
+      "full_name": "SSC Napoli",
+      "country": "Italy",
+      "continent": "Europe",
+      "zone": [
+         "roman",
+         "south",
+         "mediterranean"
+      ],
+      "kit_colors": [
+         "blue",
+         "cyan",
+         "white"
+      ],
+      "logo_features": [
+         "letter",
+         "circle"
+      ],
+      "trophy": [
+         "uel",
+         "title",
+         "cup"
+      ]
+   },
+   {
+      "name": [
+         "Atalanta"
+      ],
+      "full_name": "Atalanta",
+      "country": "Italy",
+      "continent": "Europe",
+      "zone": [
+         "roman",
+         "south",
+         "mediterranean"
+      ],
+      "kit_colors": [
+         "blue",
+         "black"
+      ],
+      "logo_features": [
+         "oval",
+         "text",
+         "human"
+      ],
+      "trophy": [
+         "uel",
+         "cup"
+      ]
+   },
+   {
+      "name": [
+         "Lazio"
+      ],
+      "full_name": "SS Lazio",
+      "country": "Italy",
+      "continent": "Europe",
+      "zone": [
+         "roman",
+         "south",
+         "mediterranean"
+      ],
+      "kit_colors": [
+         "white",
+         "blue",
+         "cyan"
+      ],
+      "logo_features": [
+         "animal",
+         "bird",
+         "eagle",
+         "text",
+         "shield",
+         "stripes"
+      ],
+      "trophy": [
+         "uefa super cup",
+         "cup winners cup",
+         "title",
+         "cup"
+      ]
+   },
+   {
+      "name": [
+         "Roma"
+      ],
+      "full_name": "AS Roma",
+      "country": "Italy",
+      "continent": "Europe",
+      "zone": [
+         "roman",
+         "south",
+         "mediterranean"
+      ],
+      "kit_colors": [
+         "orange",
+         "burgundy",
+         "red",
+         "yellow"
+      ],
+      "logo_features": [
+         "animal",
+         "wolf",
+         "human",
+         "text",
+         "shield"
+      ],
+      "trophy": [
+         "uecl",
+         "title",
+         "cup"
+      ]
+   },
+   {
+      "name": [
+         "Bologna"
+      ],
+      "full_name": "Bologna",
+      "country": "Italy",
+      "continent": "Europe",
+      "zone": [
+         "roman",
+         "south",
+         "mediterranean"
+      ],
+      "kit_colors": [
+         "red",
+         "blue",
+         "navy",
+         "white",
+         "burgundy",
+         "maroon"
+      ],
+      "logo_features": [
+         "flag",
+         "text",
+         "stripes",
+         "oval"
+      ],
+      "trophy": [
+         "title",
+         "cup"
+      ]
+   },
+   {
+      "name": [
+         "Fiorentina"
+      ],
+      "full_name": "Fiorentina",
+      "country": "Italy",
+      "continent": "Europe",
+      "zone": [
+         "roman",
+         "south",
+         "mediterranean"
+      ],
+      "kit_colors": [
+         "purple",
+         "white"
+      ],
+      "logo_features": [
+         "lily",
+         "letter",
+         "flower"
+      ],
+      "trophy": [
+         "cup winners cup",
+         "title",
+         "cup"
+      ]
+   },
+   {
+      "name": [
+         "Como"
+      ],
+      "full_name": "Como 1907",
+      "country": "Italy",
+      "continent": "Europe",
+      "zone": [
+         "roman",
+         "south",
+         "mediterranean"
+      ],
+      "kit_colors": [
+         "blue",
+         "white"
+      ],
+      "logo_features": [
+         "cross",
+         "text",
+         "shield"
+      ],
+      "trophy": []
+   },
+   {
+      "name": [
+         "Torino"
+      ],
+      "full_name": "Torino",
+      "country": "Italy",
+      "continent": "Europe",
+      "zone": [
+         "roman",
+         "south",
+         "mediterranean"
+      ],
+      "kit_colors": [
+         "burgundy",
+         "maroon",
+         "white"
+      ],
+      "logo_features": [
+         "shield",
+         "text",
+         "animal",
+         "bull"
+      ],
+      "trophy": [
+         "title",
+         "cup"
+      ]
+   },
+   {
+      "name": [
+         "Udinese"
+      ],
+      "full_name": "Udinese",
+      "country": "Italy",
+      "continent": "Europe",
+      "zone": [
+         "roman",
+         "south",
+         "mediterranean"
+      ],
+      "kit_colors": [
+         "black",
+         "white"
+      ],
+      "logo_features": [
+         "text",
+         "circle",
+         "shield",
+         "olive"
+      ],
+      "trophy": []
+   },
+   {
+      "name": [
+         "Genoa",
+         "Genova"
+      ],
+      "full_name": "Genoa CFC",
+      "country": "Italy",
+      "continent": "Europe",
+      "zone": [
+         "roman",
+         "south",
+         "mediterranean"
+      ],
+      "kit_colors": [
+         "red",
+         "white",
+         "blue",
+         "navy",
+         "burgundy",
+         "maroon"
+      ],
+      "logo_features": [
+         "gryphon",
+         "animal",
+         "lion",
+         "mythology",
+         "flag",
+         "shield"
+      ],
+      "trophy": [
+         "title",
+         "cup"
+      ]
+   },
+   {
+      "name": [
+         "Cagliari"
+      ],
+      "full_name": "Cagliari",
+      "country": "Italy",
+      "continent": "Europe",
+      "zone": [
+         "roman",
+         "south",
+         "mediterranean"
+      ],
+      "kit_colors": [
+         "red",
+         "blue",
+         "white",
+         "navy",
+         "burgundy",
+         "maroon"
+      ],
+      "logo_features": [
+         "text",
+         "flag",
+         "shield",
+         "human"
+      ],
+      "trophy": [
+         "title"
+      ]
+   },
+   {
+      "name": [
+         "Hellas",
+         "Verona"
+      ],
+      "full_name": "Hellas Verona",
+      "country": "Italy",
+      "continent": "Europe",
+      "zone": [
+         "roman",
+         "south",
+         "mediterranean"
+      ],
+      "kit_colors": [
+         "blue",
+         "navy",
+         "yellow"
+      ],
+      "logo_features": [
+         "text",
+         "letter",
+         "animal",
+         "dog"
+      ],
+      "trophy": [
+         "title"
+      ]
+   },
+   {
+      "name": [
+         "Parma"
+      ],
+      "full_name": "Parma",
+      "country": "Italy",
+      "continent": "Europe",
+      "zone": [
+         "roman",
+         "south",
+         "mediterranean"
+      ],
+      "kit_colors": [
+         "white",
+         "yellow",
+         "blue",
+         "navy"
+      ],
+      "logo_features": [
+         "flag",
+         "cross",
+         "stripes",
+         "text"
+      ],
+      "trophy": [
+         "uel",
+         "uefa super cup",
+         "cup winners cup",
+         "cup"
+      ]
+   },
+   {
+      "name": [
+         "Venezia"
+      ],
+      "full_name": "Venezia",
+      "country": "Italy",
+      "continent": "Europe",
+      "zone": [
+         "roman",
+         "south",
+         "mediterranean"
+      ],
+      "kit_colors": [
+         "black",
+         "green",
+         "orange"
+      ],
+      "logo_features": [
+         "animal",
+         "lion",
+         "letter"
+      ],
+      "trophy": [
+         "cup"
+      ]
+   },
+   {
+      "name": [
+         "Lecce"
+      ],
+      "full_name": "Lecce",
+      "country": "Italy",
+      "continent": "Europe",
+      "zone": [
+         "roman",
+         "south",
+         "mediterranean"
+      ],
+      "kit_colors": [
+         "oange",
+         "yellow",
+         "blue",
+         "navy"
+      ],
+      "logo_features": [
+         "shield",
+         "text",
+         "animal",
+         "tree",
+         "wolf"
+      ],
+      "trophy": []
+   },
+   {
+      "name": [
+         "Empoli"
+      ],
+      "full_name": "Empoli",
+      "country": "Italy",
+      "continent": "Europe",
+      "zone": [
+         "roman",
+         "south",
+         "mediterranean"
+      ],
+      "kit_colors": [
+         "blue"
+      ],
+      "logo_features": [
+         "shield",
+         "monogram",
+         "text"
+      ],
+      "trophy": []
+   },
+   {
+      "name": [
+         "Monza"
+      ],
+      "full_name": "Monza",
+      "country": "Italy",
+      "continent": "Europe",
+      "zone": [
+         "roman",
+         "south",
+         "mediterranean"
+      ],
+      "kit_colors": [
+         "red",
+         "white"
+      ],
+      "logo_features": [
+         "flag",
+         "shield",
+         "text",
+         "cross",
+         "sword"
+      ],
+      "trophy": []
+   }
+]

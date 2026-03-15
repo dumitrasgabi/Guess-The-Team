@@ -1,0 +1,152 @@
+[
+    {
+      "name": [
+         "Egnatia"
+      ],
+      "full_name": "Egnatia",
+      "country": "Albania",
+      "continent": "Europe",
+      "zone": [
+         "East",
+         "South",
+         "Balkans",
+         "Slavic"
+      ],
+      "kit_colors": [
+         "green",
+         "black"
+      ],
+      "logo_features": [
+         "plant",
+         "corn",
+         "ball",
+         "text",
+         "shield"
+      ],
+      "trophy": [
+         "title",
+         "cup"
+      ]
+   },
+   {
+      "name": [
+         "Tirana"
+      ],
+      "full_name": "KF Tirana",
+      "country": "Albania",
+      "continent": "Europe",
+      "zone": [
+         "East",
+         "South",
+         "Balkans",
+         "Slavic"
+      ],
+      "kit_colors": [
+         "blue",
+         "white"
+      ],
+      "logo_features": [
+         "star",
+         "oval",
+         "circle",
+         "text",
+         "tower",
+         "castle"
+      ],
+      "trophy": [
+         "title",
+         "cup"
+      ]
+   },
+   {
+      "name": [
+         "Dynamo Tirana",
+         "Dinamo Tirana",
+         "Dynamo City",
+         "Dinamo City"
+      ],
+      "full_name": "Dinamo City",
+      "country": "Albania",
+      "continent": "Europe",
+      "zone": [
+         "East",
+         "South",
+         "Balkans",
+         "Slavic"
+      ],
+      "kit_colors": [
+         "blue",
+         "white",
+         "cyan"
+      ],
+      "logo_features": [
+         "circle",
+         "letter",
+         "monogram",
+         "text",
+         "star"
+      ],
+      "trophy": [
+         "title",
+         "cup"
+      ]
+   },
+   {
+      "name": [
+         "Partizani"
+      ],
+      "full_name": "Partizani Tirana",
+      "country": "Albania",
+      "continent": "Europe",
+      "zone": [
+         "East",
+         "South",
+         "Balkans",
+         "Slavic"
+      ],
+      "kit_colors": [
+         "red",
+         "white"
+      ],
+      "logo_features": [
+         "star",
+         "shield",
+         "ball",
+         "text",
+         "star"
+      ],
+      "trophy": [
+         "title",
+         "cup"
+      ]
+   },
+   {
+      "name": [
+         "Vllaznia"
+      ],
+      "full_name": "Vllaznia Shkoder",
+      "country": "Albania",
+      "continent": "Europe",
+      "zone": [
+         "East",
+         "South",
+         "Balkans",
+         "Slavic"
+      ],
+      "kit_colors": [
+         "red",
+         "blue",
+         "navy"
+      ],
+      "logo_features": [
+         "letter",
+         "shield",
+         "ball",
+         "text"
+      ],
+      "trophy": [
+         "title",
+         "cup"
+      ]
+   }
+]

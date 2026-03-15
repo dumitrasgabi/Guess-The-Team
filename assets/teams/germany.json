@@ -1,0 +1,455 @@
+[
+    {
+      "name": [
+         "Bayern",
+         "Bayern Munchen",
+         "Bayern Munich"
+      ],
+      "full_name": "FC Bayern Munchen",
+      "country": "Germany",
+      "continent": "Europe",
+      "zone": [
+         "Center",
+         "Saxon"
+      ],
+      "kit_colors": [
+         "red"
+      ],
+      "logo_features": [
+         "flag",
+         "circle",
+         "text"
+      ],
+      "trophy": [
+         "ucl",
+         "uel",
+         "cup winners cup",
+         "title",
+         "cup",
+         "uefa super cup",
+         "club world cup"
+      ]
+   },
+   {
+      "name": [
+         "Dortmund",
+         "Borussia"
+      ],
+      "full_name": "Borussia Dortmund",
+      "country": "Germany",
+      "continent": "Europe",
+      "zone": [
+         "Center",
+         "Saxon"
+      ],
+      "kit_colors": [
+         "yellow",
+         "black"
+      ],
+      "logo_features": [
+         "text",
+         "circle"
+      ],
+      "trophy": [
+         "ucl",
+         "title",
+         "cup"
+      ]
+   },
+   {
+      "name": [
+         "Leverkusen, Bayer"
+      ],
+      "full_name": "Bayer Leverkusen",
+      "country": "Germany",
+      "continent": "Europe",
+      "zone": [
+         "Saxon",
+         "Center"
+      ],
+      "kit_colors": [
+         "red",
+         "black"
+      ],
+      "logo_features": [
+         "animal",
+         "lion",
+         "text"
+      ],
+      "trophy": [
+         "uel",
+         "title",
+         "cup"
+      ]
+   },
+   {
+      "name": [
+         "Frankfurt, Eintracht"
+      ],
+      "full_name": "Eintracht Frankfurt",
+      "country": "Germany",
+      "continent": "Europe",
+      "zone": [
+         "center",
+         "saxon"
+      ],
+      "kit_colors": [
+         "red",
+         "white"
+      ],
+      "logo_features": [
+         "animal",
+         "bird",
+         "eagle",
+         "circle",
+         "letter"
+      ],
+      "trophy": [
+         "uel",
+         "title",
+         "cup"
+      ]
+   },
+   {
+      "name": [
+         "Stuttgart"
+      ],
+      "full_name": "VfB Stuttgart",
+      "country": "Germany",
+      "continent": "Europe",
+      "zone": [
+         "center",
+         "saxon"
+      ],
+      "kit_colors": [
+         "white",
+         "red",
+         "black"
+      ],
+      "logo_features": [
+         "flag",
+         "text",
+         "monogram",
+         "shield"
+      ],
+      "trophy": [
+         "title",
+         "cup"
+      ]
+   },
+   {
+      "name": [
+         "Werder, Bremen"
+      ],
+      "full_name": "SV Werder Bremen",
+      "country": "Germany",
+      "continent": "Europe",
+      "zone": [
+         "center",
+         "saxon"
+      ],
+      "kit_colors": [
+         "green",
+         "white"
+      ],
+      "logo_features": [
+         "letter"
+      ],
+      "trophy": [
+         "cup winners cup",
+         "title",
+         "cup"
+      ]
+   },
+   {
+      "name": [
+         "Wolfsburg"
+      ],
+      "full_name": "VfL Wolfsburg",
+      "country": "Germany",
+      "continent": "Europe",
+      "zone": [
+         "center",
+         "saxon"
+      ],
+      "kit_colors": [
+         "white",
+         "green"
+      ],
+      "logo_features": [
+         "letter",
+         "circle"
+      ],
+      "trophy": [
+         "title",
+         "cup"
+      ]
+   },
+   {
+      "name": [
+         "Monchengladbach",
+         "Gladbach",
+         "Borussia M"
+      ],
+      "full_name": "Borussia Monchengladbach",
+      "country": "Germany",
+      "continent": "Europe",
+      "zone": [
+         "center",
+         "saxon"
+      ],
+      "kit_colors": [
+         "white",
+         "green",
+         "black"
+      ],
+      "logo_features": [
+         "letter",
+         "stripes"
+      ],
+      "trophy": [
+         "uel",
+         "title",
+         "cup"
+      ]
+   },
+   {
+      "name": [
+         "Leipzig"
+      ],
+      "full_name": "RB Leipzig",
+      "country": "Germany",
+      "continent": "Europe",
+      "zone": [
+         "center",
+         "saxon"
+      ],
+      "kit_colors": [
+         "white",
+         "red"
+      ],
+      "logo_features": [
+         "animal",
+         "bull",
+         "text",
+         "ball"
+      ],
+      "trophy": [
+         "cup"
+      ]
+   },
+   {
+      "name": [
+         "Freiburg"
+      ],
+      "full_name": "Freiburg",
+      "country": "Germany",
+      "continent": "Europe",
+      "zone": [
+         "center",
+         "saxon"
+      ],
+      "kit_colors": [
+         "black",
+         "white",
+         "red"
+      ],
+      "logo_features": [
+         "monogram",
+         "animal",
+         "bird",
+         "eagle",
+         "gryphon",
+         "mithology",
+         "oval"
+      ],
+      "trophy": []
+   },
+   {
+      "name": [
+         "Mainz"
+      ],
+      "full_name": "1. FSV Mainz 05",
+      "country": "Germany",
+      "continent": "Europe",
+      "zone": [
+         "center",
+         "saxon"
+      ],
+      "kit_colors": [
+         "red",
+         "white"
+      ],
+      "logo_features": [
+         "monogram",
+         "circle",
+         "letters"
+      ],
+      "trophy": []
+   },
+   {
+      "name": [
+         "Augsburg"
+      ],
+      "full_name": "Augsburg",
+      "country": "Germany",
+      "continent": "Europe",
+      "zone": [
+         "center",
+         "saxon"
+      ],
+      "kit_colors": [
+         "white",
+         "red"
+      ],
+      "logo_features": [
+         "shield",
+         "text",
+         "letter",
+         "pine"
+      ],
+      "trophy": []
+   },
+   {
+      "name": [
+         "Union",
+         "Berlin"
+      ],
+      "full_name": "1. FC Union Berlin",
+      "country": "Germany",
+      "continent": "Europe",
+      "zone": [
+         "center",
+         "saxon"
+      ],
+      "kit_colors": [
+         "red",
+         "white"
+      ],
+      "logo_features": [
+         "animal",
+         "bear",
+         "ball",
+         "text",
+         "letter"
+      ],
+      "trophy": []
+   },
+   {
+      "name": [
+         "Pauli"
+      ],
+      "full_name": "St. Pauli",
+      "country": "Germany",
+      "continent": "Europe",
+      "zone": [
+         "center",
+         "saxon"
+      ],
+      "kit_colors": [
+         "brown",
+         "red",
+         "white"
+      ],
+      "logo_features": [
+         "church",
+         "circle",
+         "text",
+         "star"
+      ],
+      "trophy": []
+   },
+   {
+      "name": [
+         "Hoffenheim"
+      ],
+      "full_name": "Hoffenheim",
+      "country": "Germany",
+      "continent": "Europe",
+      "zone": [
+         "center",
+         "saxon"
+      ],
+      "kit_colors": [
+         "blue",
+         "white"
+      ],
+      "logo_features": [
+         "shield",
+         "text"
+      ],
+      "trophy": []
+   },
+   {
+      "name": [
+         "Heidenheim"
+      ],
+      "full_name": "Heidenheim",
+      "country": "Germany",
+      "continent": "Europe",
+      "zone": [
+         "center",
+         "saxon"
+      ],
+      "kit_colors": [
+         "red",
+         "blue"
+      ],
+      "logo_features": [
+         "text",
+         "shield"
+      ],
+      "trophy": []
+   },
+   {
+      "name": [
+         "Holstein",
+         "Kiel"
+      ],
+      "full_name": "Holstein Kiel",
+      "country": "Germany",
+      "continent": "Europe",
+      "zone": [
+         "center",
+         "saxon"
+      ],
+      "kit_colors": [
+         "red",
+         "blue",
+         "white"
+      ],
+      "logo_features": [
+         "circle",
+         "text",
+         "ship",
+         "flag"
+      ],
+      "trophy": [
+         "title"
+      ]
+   },
+   {
+      "name": [
+         "Bochum",
+         "VfL"
+      ],
+      "full_name": "VfL Bochum",
+      "country": "Germany",
+      "continent": "Europe",
+      "zone": [
+         "center",
+         "saxon"
+      ],
+      "kit_colors": [
+         "blue",
+         "white",
+         "navy"
+      ],
+      "logo_features": [
+         "text",
+         "letter",
+         "shield"
+      ],
+      "trophy": []
+   }
+]

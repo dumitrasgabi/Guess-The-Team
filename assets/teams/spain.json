@@ -1,0 +1,566 @@
+[
+    {
+      "name": [
+         "Real Madrid",
+         "Real",
+         "Madrid"
+      ],
+      "full_name": "Real Madrid CF",
+      "country": "Spain",
+      "continent": "Europe",
+      "zone": [
+         "Iberia",
+         "South",
+         "West",
+         "Roman"
+      ],
+      "kit_colors": [
+         "white"
+      ],
+      "logo_features": [
+         "crown",
+         "monogram",
+         "circle"
+      ],
+      "trophy": [
+         "ucl",
+         "uel",
+         "title",
+         "cup",
+         "uefa super cup",
+         "club world cup"
+      ]
+   },
+   {
+      "name": [
+         "Barcelona",
+         "Barca"
+      ],
+      "full_name": "FC Barcelona",
+      "country": "Spain",
+      "continent": "Europe",
+      "zone": [
+         "Iberia",
+         "South",
+         "West",
+         "Roman",
+         "catalonia"
+      ],
+      "kit_colors": [
+         "blue",
+         "red"
+      ],
+      "logo_features": [
+         "ball",
+         "stripes",
+         "text",
+         "flag"
+      ],
+      "trophy": [
+         "ucl",
+         "cup winners cup",
+         "title",
+         "cup",
+         "uefa super cup",
+         "club world cup"
+      ]
+   },
+   {
+      "name": [
+         "Atletico",
+         "Atletico Madrid",
+         "Atleti"
+      ],
+      "full_name": "Atletico Madrid",
+      "country": "Spain",
+      "continent": "Europe",
+      "zone": [
+         "Iberia",
+         "South",
+         "West",
+         "Roman"
+      ],
+      "kit_colors": [
+         "red",
+         "white",
+         "blue"
+      ],
+      "logo_features": [
+         "animal",
+         "stripes",
+         "bear",
+         "tree",
+         "star"
+      ],
+      "trophy": [
+         "uel",
+         "title",
+         "cup",
+         "uefa super cup",
+         "cup winners cup"
+      ]
+   },
+   {
+      "name": [
+         "Sevilla"
+      ],
+      "full_name": "FC Sevilla",
+      "country": "Spain",
+      "continent": "Europe",
+      "zone": [
+         "Iberia",
+         "South",
+         "West",
+         "Roman"
+      ],
+      "kit_colors": [
+         "white",
+         "red"
+      ],
+      "logo_features": [
+         "ball",
+         "stripes",
+         "monogram",
+         "human"
+      ],
+      "trophy": [
+         "uel",
+         "uefa super cup"
+      ]
+   },
+   {
+      "name": [
+         "Athletic Bilbao",
+         "Bilbao",
+         "Athletic Club"
+      ],
+      "full_name": "Athletic Club de Bilbao",
+      "country": "Spain",
+      "continent": "Europe",
+      "zone": [
+         "Iberia",
+         "South",
+         "West",
+         "Roman"
+      ],
+      "kit_colors": [
+         "red",
+         "white",
+         "black"
+      ],
+      "logo_features": [
+         "text",
+         "stripes",
+         "castle"
+      ],
+      "trophy": [
+         "title",
+         "cup"
+      ]
+   },
+   {
+      "name": [
+         "Real Sociedad",
+         "Sociedad"
+      ],
+      "full_name": "Real Sociedad",
+      "country": "Spain",
+      "continent": "Europe",
+      "zone": [
+         "Iberia",
+         "South",
+         "West",
+         "Roman"
+      ],
+      "kit_colors": [
+         "blue",
+         "white"
+      ],
+      "logo_features": [
+         "ball",
+         "crown",
+         "flag"
+      ],
+      "trophy": [
+         "title",
+         "cup"
+      ]
+   },
+   {
+      "name": [
+         "Villarreal",
+         "Villareal"
+      ],
+      "full_name": "Villarreal CF",
+      "country": "Spain",
+      "continent": "Europe",
+      "zone": [
+         "Iberia",
+         "South",
+         "West",
+         "Roman"
+      ],
+      "kit_colors": [
+         "yellow"
+      ],
+      "logo_features": [
+         "text",
+         "crown",
+         "stripes"
+      ],
+      "trophy": [
+         "uel"
+      ]
+   },
+   {
+      "name": [
+         "Betis"
+      ],
+      "full_name": "Real Betis",
+      "country": "Spain",
+      "continent": "Europe",
+      "zone": [
+         "Iberia",
+         "South",
+         "West",
+         "Roman"
+      ],
+      "kit_colors": [
+         "green",
+         "white"
+      ],
+      "logo_features": [
+         "crown",
+         "stripes",
+         "monogram"
+      ],
+      "trophy": [
+         "title",
+         "cup"
+      ]
+   },
+   {
+      "name": [
+         "Celta Vigo",
+         "Celta"
+      ],
+      "full_name": "Celta VIgo",
+      "country": "Spain",
+      "continent": "Europe",
+      "zone": [
+         "iberia",
+         "west",
+         "south",
+         "mediterranean",
+         "roman"
+      ],
+      "kit_colors": [
+         "cyan",
+         "blue",
+         "white"
+      ],
+      "logo_features": [
+         "monogram",
+         "arrow",
+         "crown"
+      ],
+      "trophy": []
+   },
+   {
+      "name": [
+         "Rayo",
+         "Vallecano"
+      ],
+      "full_name": "Rayo Vallecano",
+      "country": "Spain",
+      "continent": "Europe",
+      "zone": [
+         "iberia",
+         "west",
+         "south",
+         "mediterranean",
+         "roman"
+      ],
+      "kit_colors": [
+         "red",
+         "white"
+      ],
+      "logo_features": [
+         "shield",
+         "text",
+         "letter",
+         "arrow",
+         "crown",
+         "hammer"
+      ],
+      "trophy": []
+   },
+   {
+      "name": [
+         "Mallorca"
+      ],
+      "full_name": "Mallorca",
+      "country": "Spain",
+      "continent": "Europe",
+      "zone": [
+         "west",
+         "south",
+         "mediterranean",
+         "iberia",
+         "roman"
+      ],
+      "kit_colors": [
+         "red"
+      ],
+      "logo_features": [
+         "monogram",
+         "crown"
+      ],
+      "trophy": [
+         "cup"
+      ]
+   },
+   {
+      "name": [
+         "Osasuna"
+      ],
+      "full_name": "Osasuna",
+      "country": "Spain",
+      "continent": "Europe",
+      "zone": [
+         "west",
+         "south",
+         "mediterranean",
+         "iberia",
+         "roman"
+      ],
+      "kit_colors": [
+         "red",
+         "blue"
+      ],
+      "logo_features": [
+         "animal",
+         "lion",
+         "crown",
+         "shield",
+         "text"
+      ],
+      "trophy": []
+   },
+   {
+      "name": [
+         "Valencia"
+      ],
+      "full_name": "Valencia",
+      "country": "Spain",
+      "continent": "Europe",
+      "zone": [
+         "west",
+         "south",
+         "mediterranean",
+         "iberia",
+         "roman"
+      ],
+      "kit_colors": [
+         "white",
+         "black"
+      ],
+      "logo_features": [
+         "animal",
+         "bat",
+         "stripes",
+         "text",
+         "ball"
+      ],
+      "trophy": [
+         "uel",
+         "uefa super cup",
+         "cup winners cup",
+         "title",
+         "cup"
+      ]
+   },
+   {
+      "name": [
+         "Getafe"
+      ],
+      "full_name": "Getafe",
+      "country": "Spain",
+      "continent": "Europe",
+      "zone": [
+         "west",
+         "south",
+         "mediterranean",
+         "iberia",
+         "roman"
+      ],
+      "kit_colors": [
+         "blue"
+      ],
+      "logo_features": [
+         "ball",
+         "text",
+         "circle",
+         "flag"
+      ],
+      "trophy": []
+   },
+   {
+      "name": [
+         "Espanyol"
+      ],
+      "full_name": "Espanyol",
+      "country": "Spain",
+      "continent": "Europe",
+      "zone": [
+         "west",
+         "south",
+         "mediterranean",
+         "iberia",
+         "roman"
+      ],
+      "kit_colors": [
+         "white",
+         "blue"
+      ],
+      "logo_features": [
+         "stripes",
+         "crown",
+         "text",
+         "circle"
+      ],
+      "trophy": []
+   },
+   {
+      "name": [
+         "Girona"
+      ],
+      "full_name": "Girona",
+      "country": "Spain",
+      "continent": "Europe",
+      "zone": [
+         "west",
+         "south",
+         "mediterranean",
+         "iberia",
+         "roman"
+      ],
+      "kit_colors": [
+         "red",
+         "white"
+      ],
+      "logo_features": [
+         "circle",
+         "text",
+         "flag",
+         "stripes"
+      ],
+      "trophy": []
+   },
+   {
+      "name": [
+         "Alaves",
+         "Deportivo"
+      ],
+      "full_name": "Deportivo Alaves",
+      "country": "Spain",
+      "continent": "Europe",
+      "zone": [
+         "west",
+         "south",
+         "mediterranean",
+         "iberia",
+         "roman"
+      ],
+      "kit_colors": [
+         "blue",
+         "white"
+      ],
+      "logo_features": [
+         "circle",
+         "text",
+         "flag"
+      ],
+      "trophy": []
+   },
+   {
+      "name": [
+         "Leganes"
+      ],
+      "full_name": "Leganes",
+      "country": "Spain",
+      "continent": "Europe",
+      "zone": [
+         "west",
+         "south",
+         "mediterranean",
+         "iberia",
+         "roman"
+      ],
+      "kit_colors": [
+         "white",
+         "blue"
+      ],
+      "logo_features": [
+         "crown",
+         "stripes",
+         "text",
+         "letter"
+      ],
+      "trophy": []
+   },
+   {
+      "name": [
+         "Las Palmas"
+      ],
+      "full_name": "Las Palmas",
+      "country": "Spain",
+      "continent": "Europe",
+      "zone": [
+         "west",
+         "south",
+         "mediterranean",
+         "iberia",
+         "roman"
+      ],
+      "kit_colors": [
+         "yellow",
+         "blue"
+      ],
+      "logo_features": [
+         "crown",
+         "flag",
+         "text"
+      ],
+      "trophy": []
+   },
+   {
+      "name": [
+         "Valladolid",
+         "Valadolid",
+         "Valadollid"
+      ],
+      "full_name": "Real Valladolid",
+      "country": "Spain",
+      "continent": "Europe",
+      "zone": [
+         "west",
+         "south",
+         "mediterranean",
+         "iberia",
+         "roman"
+      ],
+      "kit_colors": [
+         "white",
+         "purple"
+      ],
+      "logo_features": [
+         "crown",
+         "stripes",
+         "flag",
+         "monogram",
+         "sword"
+      ],
+      "trophy": []
+   }
+]

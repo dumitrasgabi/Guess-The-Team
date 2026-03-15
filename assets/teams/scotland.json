@@ -1,0 +1,356 @@
+[
+    {
+      "name": [
+         "Celtic"
+      ],
+      "full_name": "Celtic Glasgow",
+      "country": "Scotland",
+      "continent": "Europe",
+      "zone": [
+         "West",
+         "Saxon",
+         "Island",
+         "British"
+      ],
+      "kit_colors": [
+         "green",
+         "white"
+      ],
+      "logo_features": [
+         "circle",
+         "clover",
+         "text"
+      ],
+      "trophy": [
+         "ucl",
+         "title",
+         "cup"
+      ]
+   },
+   {
+      "name": [
+         "Rangers"
+      ],
+      "full_name": "Rangers",
+      "country": "Scotland",
+      "continent": "Europe",
+      "zone": [
+         "West",
+         "Saxon",
+         "Island",
+         "British"
+      ],
+      "kit_colors": [
+         "blue",
+         "white"
+      ],
+      "logo_features": [
+         "circle",
+         "animal",
+         "lion",
+         "text"
+      ],
+      "trophy": [
+         "cup winners cup",
+         "title",
+         "cup"
+      ]
+   },
+   {
+      "name": [
+         "Hearts",
+         "Heart",
+         "Midlothian"
+      ],
+      "full_name": "Hearts",
+      "country": "Scotland",
+      "continent": "Europe",
+      "zone": [
+         "West",
+         "Saxon",
+         "Island",
+         "British"
+      ],
+      "kit_colors": [
+         "burgundy",
+         "maroon",
+         "white"
+      ],
+      "logo_features": [
+         "heart",
+         "shield",
+         "flag",
+         "text"
+      ],
+      "trophy": [
+         "title",
+         "cup"
+      ]
+   },
+   {
+      "name": [
+         "Aberdeen"
+      ],
+      "full_name": "Aberdeen",
+      "country": "Scotland",
+      "continent": "Europe",
+      "zone": [
+         "West",
+         "Saxon",
+         "Island",
+         "British"
+      ],
+      "kit_colors": [
+         "red",
+         "white"
+      ],
+      "logo_features": [
+         "circle",
+         "text",
+         "star",
+         "ball"
+      ],
+      "trophy": [
+         "uefa super cup",
+         "cup winners cup",
+         "title",
+         "cup"
+      ]
+   },
+      {
+      "name": [
+         "Hibernian",
+         "Hibs"
+      ],
+      "full_name": "Hibernian FC",
+      "country": "Scotland",
+      "continent": "Europe",
+      "zone": [
+         "West",
+         "Saxon",
+         "Island",
+         "British"
+      ],
+      "kit_colors": [
+         "green",
+         "white"
+      ],
+      "logo_features": [
+         "circle",
+         "text",
+         "castle",
+         "ship",
+         "ball",
+         "harp"
+      ],
+      "trophy": [
+         "title",
+         "cup"
+      ]
+   },
+   {
+      "name": [
+         "Motherwell"
+      ],
+      "full_name": "Motherwell FC",
+      "country": "Scotland",
+      "continent": "Europe",
+      "zone": [
+         "West",
+         "Saxon",
+         "Island",
+         "British"
+      ],
+      "kit_colors": [
+         "orange",
+         "maroon",
+         "burgundy",
+         "claret",
+         "amber"
+      ],
+      "logo_features": [
+         "circle",
+         "shield",
+         "tree",
+         "plant",
+         "ball",
+         "power plant"
+      ],
+      "trophy": [
+         "title",
+         "cup"
+      ]
+   },
+   {
+      "name": [
+         "Dundee United"
+      ],
+      "full_name": "Dundee United FC",
+      "country": "Scotland",
+      "continent": "Europe",
+      "zone": [
+         "West",
+         "Saxon",
+         "Island",
+         "British"
+      ],
+      "kit_colors": [
+         "orange",
+         "black"
+      ],
+      "logo_features": [
+         "animal",
+         "lion",
+         "cirlce",
+         "diamond"
+      ],
+      "trophy": [
+         "title",
+         "cup"
+      ]
+   },
+   {
+      "name": [
+         "Kilmarnock"
+      ],
+      "full_name": "Kilmarnock FC",
+      "country": "Scotland",
+      "continent": "Europe",
+      "zone": [
+         "West",
+         "Saxon",
+         "Island",
+         "British"
+      ],
+      "kit_colors": [
+         "blue",
+         "white"
+      ],
+      "logo_features": [
+         "animal",
+         "squirrel",
+         "ball",
+         "text",
+         "letters",
+         "hand",
+         "ribbon"
+      ],
+      "trophy": [
+         "title",
+         "cup"
+      ]
+   },
+   {
+      "name": [
+         "St. Mirren"
+      ],
+      "full_name": "St. Mirren FC",
+      "country": "Scotland",
+      "continent": "Europe",
+      "zone": [
+         "West",
+         "Saxon",
+         "Island",
+         "British"
+      ],
+      "kit_colors": [
+         "black",
+         "white"
+      ],
+      "logo_features": [
+         "circle",
+         "plant",
+         "text",
+         "letters",
+         "shield"
+      ],
+      "trophy": [
+         "cup"
+      ]
+   },
+   {
+      "name": [
+         "Dundee"
+      ],
+      "full_name": "Dundee FC",
+      "country": "Scotland",
+      "continent": "Europe",
+      "zone": [
+         "West",
+         "Saxon",
+         "Island",
+         "British"
+      ],
+      "kit_colors": [
+         "navy",
+         "white",
+         "blue"
+      ],
+      "logo_features": [
+         "shield",
+         "monogram",
+         "letters"
+      ],
+      "trophy": [
+         "title",
+         "cup"
+      ]
+   },
+   {
+      "name": [
+         "Falkirk"
+      ],
+      "full_name": "Falkirk FC",
+      "country": "Scotland",
+      "continent": "Europe",
+      "zone": [
+         "West",
+         "Saxon",
+         "Island",
+         "British"
+      ],
+      "kit_colors": [
+         "navy",
+         "blue",
+         "white",
+         "black"
+      ],
+      "logo_features": [
+         "ball",
+         "tree",
+         "plant",
+         "text"
+      ],
+      "trophy": [
+         "cup"
+      ]
+   },
+   {
+      "name": [
+         "Livingston"
+      ],
+      "full_name": "Livingston FC",
+      "country": "Scotland",
+      "continent": "Europe",
+      "zone": [
+         "West",
+         "Saxon",
+         "Island",
+         "British"
+      ],
+      "kit_colors": [
+         "yellow",
+         "black"
+      ],
+      "logo_features": [
+         "animal",
+         "lion",
+         "plant",
+         "ribbon",
+         "text"
+      ],
+      "trophy": [
+         ""
+      ]
+   }
+]

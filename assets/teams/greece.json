@@ -1,0 +1,282 @@
+[
+    {
+      "name": [
+         "PAOK"
+      ],
+      "full_name": "PAOK",
+      "country": "Greece",
+      "continent": "Europe",
+      "zone": [
+         "East",
+         "South",
+         "Balkans",
+         "Slavic"
+      ],
+      "kit_colors": [
+         "black",
+         "white"
+      ],
+      "logo_features": [
+         "eagle",
+         "animal",
+         "bird",
+         "mythology",
+         "text",
+         "stripes"
+      ],
+      "trophy": [
+         "title",
+         "cup"
+      ]
+   },
+   {
+      "name": [
+         "Olympiakos",
+         "Olympiacos"
+      ],
+      "full_name": "Olympiacos Piraeus",
+      "country": "Greece",
+      "continent": "Europe",
+      "zone": [
+         "East",
+         "South",
+         "Balkans",
+         "Slavic"
+      ],
+      "kit_colors": [
+         "red",
+         "white"
+      ],
+      "logo_features": [
+         "human",
+         "olive",
+         "circle",
+         "star",
+         "text"
+      ],
+      "trophy": [
+         "uecl",
+         "title",
+         "cup"
+      ]
+   },
+   {
+      "name": [
+         "Panathinaikos"
+      ],
+      "full_name": "Panathinaikos Athens",
+      "country": "Greece",
+      "continent": "Europe",
+      "zone": [
+         "East",
+         "South",
+         "Balkans",
+         "Slavic"
+      ],
+      "kit_colors": [
+         "green",
+         "white"
+      ],
+      "logo_features": [
+         "clover",
+         "circle",
+         "text",
+         "star"
+      ],
+      "trophy": [
+         "title",
+         "cup"
+      ]
+   },
+   {
+      "name": [
+         "AEK Athens"
+      ],
+      "full_name": "AEK Athens",
+      "country": "Greece",
+      "continent": "Europe",
+      "zone": [
+         "East",
+         "South",
+         "Balkans",
+         "Slavic"
+      ],
+      "kit_colors": [
+         "yellow",
+         "black",
+         "white"
+      ],
+      "logo_features": [
+         "animal",
+         "bird",
+         "eagle",
+         "mythology",
+         "shield",
+         "text",
+         "sword"
+      ],
+      "trophy": [
+         "title",
+         "cup"
+      ]
+   },
+      {
+      "name": [
+         "Aris"
+      ],
+      "full_name": "Aris Thessaloniki",
+      "country": "Greece",
+      "continent": "Europe",
+      "zone": [
+         "East",
+         "Balkans",
+         "Slavic",
+         "South"
+      ],
+      "kit_colors": [
+         "black",
+         "yellow"
+      ],
+      "logo_features": [
+         "human",
+         "text",
+         "letters"
+      ],
+      "trophy": [
+         "title",
+         "cup"
+      ]
+   },
+   {
+      "name": [
+         "OFI Crete"
+      ],
+      "full_name": "OFI Crete",
+      "country": "Greece",
+      "continent": "Europe",
+      "zone": [
+         "East",
+         "Balkans",
+         "Slavic",
+         "South"
+      ],
+      "kit_colors": [
+         "black",
+         "white"
+      ],
+      "logo_features": [
+         "circle",
+         "monogram",
+         "text",
+         "letters"
+      ],
+      "trophy": [
+         "cup"
+      ]
+   },
+   {
+      "name": [
+         "Panetolikos"
+      ],
+      "full_name": "Panetolikos",
+      "country": "Greece",
+      "continent": "Europe",
+      "zone": [
+         "East",
+         "Balkans",
+         "Slavic",
+         "South"
+      ],
+      "kit_colors": [
+         "yellow",
+         "blue"
+      ],
+      "logo_features": [
+         "human",
+         "shield",
+         "text"
+      ],
+      "trophy": [
+         ""
+      ]
+   },
+   {
+      "name": [
+         "Levadiakos"
+      ],
+      "full_name": "Levadiakos",
+      "country": "Greece",
+      "continent": "Europe",
+      "zone": [
+         "East",
+         "Balkans",
+         "Slavic",
+         "South"
+      ],
+      "kit_colors": [
+         "green",
+         "blue"
+      ],
+      "logo_features": [
+         "stripes",
+         "text",
+         "shield"
+      ],
+      "trophy": [
+         ""
+      ]
+   },
+   {
+      "name": [
+         "Atromitos"
+      ],
+      "full_name": "Atromitos",
+      "country": "Greece",
+      "continent": "Europe",
+      "zone": [
+         "East",
+         "Balkans",
+         "Slavic",
+         "South"
+      ],
+      "kit_colors": [
+         "blue",
+         "white"
+      ],
+      "logo_features": [
+         "star",
+         "cirlce",
+         "text"
+      ],
+      "trophy": [
+         ""
+      ]
+   },
+   {
+      "name": [
+         "Panserraikos"
+      ],
+      "full_name": "Panserraikos",
+      "country": "Greece",
+      "continent": "Europe",
+      "zone": [
+         "East",
+         "Balkans",
+         "Slavic",
+         "South"
+      ],
+      "kit_colors": [
+         "red",
+         "white"
+      ],
+      "logo_features": [
+         "lion",
+         "animal",
+         "mythology",
+         "shield"
+      ],
+      "trophy": [
+         ""
+      ]
+   }
+]

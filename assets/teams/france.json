@@ -1,0 +1,486 @@
+[
+    {
+      "name": [
+         "PSG",
+         "Paris"
+      ],
+      "full_name": "Paris Saint-Germain",
+      "country": "France",
+      "continent": "Europe",
+      "zone": [
+         "West",
+         "Roman"
+      ],
+      "kit_colors": [
+         "blue",
+         "red",
+         "white"
+      ],
+      "logo_features": [
+         "eiffel tower",
+         "text",
+         "lily"
+      ],
+      "trophy": [
+         "cup winners cup",
+         "title",
+         "cup",
+         "ucl"
+      ]
+   },
+   {
+      "name": [
+         "Marseille",
+         "OM"
+      ],
+      "full_name": "Olympique Marseille",
+      "country": "France",
+      "continent": "Europe",
+      "zone": [
+         "West",
+         "Roman"
+      ],
+      "kit_colors": [
+         "white",
+         "blue",
+         "cyan"
+      ],
+      "logo_features": [
+         "letter",
+         "text",
+         "star"
+      ],
+      "trophy": [
+         "ucl",
+         "title",
+         "cup"
+      ]
+   },
+   {
+      "name": [
+         "Monaco"
+      ],
+      "full_name": "AS Monaco",
+      "country": "France",
+      "continent": "Europe",
+      "zone": [
+         "West",
+         "Roman"
+      ],
+      "kit_colors": [
+         "red",
+         "white"
+      ],
+      "logo_features": [
+         "crown",
+         "text",
+         "stripes",
+         "shield"
+      ],
+      "trophy": [
+         "title",
+         "cup"
+      ]
+   },
+   {
+      "name": [
+         "Nice"
+      ],
+      "full_name": "OGC Nice",
+      "country": "France",
+      "continent": "Europe",
+      "zone": [
+         "West",
+         "Roman"
+      ],
+      "kit_colors": [
+         "red",
+         "black"
+      ],
+      "logo_features": [
+         "animal",
+         "bird",
+         "eagle",
+         "text",
+         "stripes",
+         "crown"
+      ],
+      "trophy": [
+         "title",
+         "cup"
+      ]
+   },
+   {
+      "name": [
+         "Lille",
+         "LOSC"
+      ],
+      "full_name": "LOSC Lille",
+      "country": "France",
+      "continent": "Europe",
+      "zone": [
+         "West",
+         "Roman"
+      ],
+      "kit_colors": [
+         "red",
+         "blue",
+         "navy",
+         "white"
+      ],
+      "logo_features": [
+         "dog",
+         "animal",
+         "lily",
+         "text"
+      ],
+      "trophy": [
+         "title",
+         "cup"
+      ]
+   },
+   {
+      "name": [
+         "Strasbourg"
+      ],
+      "full_name": "Strasbourg",
+      "country": "France",
+      "continent": "Europe",
+      "zone": [
+         "West",
+         "Roman"
+      ],
+      "kit_colors": [
+         "blue",
+         "white",
+         "cyan",
+         "red"
+      ],
+      "logo_features": [
+         "animal",
+         "bird",
+         "circle",
+         "text",
+         "monogram",
+         "church"
+      ],
+      "trophy": [
+         "title",
+         "cup"
+      ]
+   },
+   {
+      "name": [
+         "Lyon",
+         "OL"
+      ],
+      "full_name": "Olympique Lyonnais",
+      "country": "France",
+      "continent": "Europe",
+      "zone": [
+         "West",
+         "Roman"
+      ],
+      "kit_colors": [
+         "white",
+         "red",
+         "blue"
+      ],
+      "logo_features": [
+         "text",
+         "shield",
+         "animal",
+         "lion",
+         "letter"
+      ],
+      "trophy": [
+         "title",
+         "cup"
+      ]
+   },
+   {
+      "name": [
+         "Brest"
+      ],
+      "full_name": "Stade Brestois",
+      "country": "France",
+      "continent": "Europe",
+      "zone": [
+         "West",
+         "Roman"
+      ],
+      "kit_colors": [
+         "red",
+         "white"
+      ],
+      "logo_features": [
+         "shield",
+         "text"
+      ],
+      "trophy": []
+   },
+   {
+      "name": [
+         "Lens"
+      ],
+      "full_name": "RC Lens",
+      "country": "France",
+      "continent": "Europe",
+      "zone": [
+         "West",
+         "Roman"
+      ],
+      "kit_colors": [
+         "yellow",
+         "red",
+         "black"
+      ],
+      "logo_features": [
+         "text",
+         "castle",
+         "lily",
+         "letter"
+      ],
+      "trophy": [
+         "title"
+      ]
+   },
+   {
+      "name": [
+         "Auxerre"
+      ],
+      "full_name": "Auxerre",
+      "country": "France",
+      "continent": "Europe",
+      "zone": [
+         "West",
+         "Roman"
+      ],
+      "kit_colors": [
+         "white",
+         "blue",
+         "cyan"
+      ],
+      "logo_features": [
+         "text",
+         "shield",
+         "ball",
+         "cross"
+      ],
+      "trophy": [
+         "title",
+         "cup"
+      ]
+   },
+   {
+      "name": [
+         "Rennes",
+         "Rennais"
+      ],
+      "full_name": "Stade Rennais",
+      "country": "France",
+      "continent": "Europe",
+      "zone": [
+         "West",
+         "Roman"
+      ],
+      "kit_colors": [
+         "black",
+         "red"
+      ],
+      "logo_features": [
+         "animal",
+         "dog",
+         "ball",
+         "text",
+         "shield"
+      ],
+      "trophy": [
+         "cup"
+      ]
+   },
+   {
+      "name": [
+         "Toulouse"
+      ],
+      "full_name": "Toulouse",
+      "country": "France",
+      "continent": "Europe",
+      "zone": [
+         "West",
+         "Roman"
+      ],
+      "kit_colors": [
+         "purple",
+         "white"
+      ],
+      "logo_features": [
+         "circle",
+         "text",
+         "lily",
+         "castle",
+         "animal",
+         "cross",
+         "flag",
+         "sheep"
+      ],
+      "trophy": []
+   },
+   {
+      "name": [
+         "Angers"
+      ],
+      "full_name": "Angers SCO",
+      "country": "France",
+      "continent": "Europe",
+      "zone": [
+         "West",
+         "Roman"
+      ],
+      "kit_colors": [
+         "black",
+         "white"
+      ],
+      "logo_features": [
+         "lily",
+         "text",
+         "letter",
+         "stripes"
+      ],
+      "trophy": []
+   },
+   {
+      "name": [
+         "Reims"
+      ],
+      "full_name": "Stade Reims",
+      "country": "France",
+      "continent": "Europe",
+      "zone": [
+         "West",
+         "Roman"
+      ],
+      "kit_colors": [
+         "red",
+         "white"
+      ],
+      "logo_features": [
+         "letter",
+         "crown",
+         "monogram",
+         "text"
+      ],
+      "trophy": [
+         "title",
+         "cup"
+      ]
+   },
+   {
+      "name": [
+         "Nantes"
+      ],
+      "full_name": "Nantes",
+      "country": "France",
+      "continent": "Europe",
+      "zone": [
+         "West",
+         "Roman"
+      ],
+      "kit_colors": [
+         "green",
+         "yellow"
+      ],
+      "logo_features": [
+         "letter",
+         "text",
+         "cross"
+      ],
+      "trophy": [
+         "title",
+         "cup"
+      ]
+   },
+   {
+      "name": [
+         "Le Havre",
+         "Havre"
+      ],
+      "full_name": "Le Havre",
+      "country": "France",
+      "continent": "Europe",
+      "zone": [
+         "West",
+         "Roman"
+      ],
+      "kit_colors": [
+         "cyan",
+         "navy",
+         "blue"
+      ],
+      "logo_features": [
+         "animal",
+         "dragon",
+         "crown",
+         "text",
+         "shield"
+      ],
+      "trophy": [
+         "cup"
+      ]
+   },
+   {
+      "name": [
+         "Etienne",
+         "ASSE"
+      ],
+      "full_name": "AS Saint-Etienne",
+      "country": "France",
+      "continent": "Europe",
+      "zone": [
+         "West",
+         "Roman"
+      ],
+      "kit_colors": [
+         "green",
+         "white"
+      ],
+      "logo_features": [
+         "shield",
+         "text",
+         "stripes",
+         "star",
+         "crown"
+      ],
+      "trophy": [
+         "title",
+         "cup"
+      ]
+   },
+   {
+      "name": [
+         "Montpellier"
+      ],
+      "full_name": "Montpellier HSC",
+      "country": "France",
+      "continent": "Europe",
+      "zone": [
+         "West",
+         "Roman"
+      ],
+      "kit_colors": [
+         "white",
+         "orange",
+         "blue",
+         "navy"
+      ],
+      "logo_features": [
+         "circle",
+         "text",
+         "stripes"
+      ],
+      "trophy": [
+         "title",
+         "cup"
+      ]
+   }
+]

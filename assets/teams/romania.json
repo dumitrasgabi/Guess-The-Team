@@ -1,0 +1,428 @@
+[
+    {
+      "name": [
+         "FCSB",
+         "Steaua"
+      ],
+      "full_name": "FCSB",
+      "country": "Romania",
+      "continent": "Europe",
+      "zone": [
+         "Balkans",
+         "Roman",
+         "East"
+      ],
+      "kit_colors": [
+         "red",
+         "blue"
+      ],
+      "logo_features": [
+         "star",
+         "circle"
+      ],
+      "trophy": [
+         "ucl",
+         "title",
+         "cup",
+         "uefa super cup"
+      ]
+   },
+   {
+      "name": [
+         "CFR",
+         "Cluj"
+      ],
+      "full_name": "CFR 1907 Cluj",
+      "country": "Romania",
+      "continent": "Europe",
+      "zone": [
+         "East",
+         "Roman",
+         "Balkans"
+      ],
+      "kit_colors": [
+         "burgundy",
+         "maroon",
+         "white"
+      ],
+      "logo_features": [
+         "shield",
+         "text",
+         "ball",
+         "train"
+      ],
+      "trophy": [
+         "title",
+         "cup"
+      ]
+   },
+   {
+      "name": [
+         "Craiova"
+      ],
+      "full_name": "Universitatea Craiova",
+      "country": "Romania",
+      "continent": "Europe",
+      "zone": [
+         "East",
+         "Roman",
+         "Balkans"
+      ],
+      "kit_colors": [
+         "blue",
+         "cyan",
+         "white"
+      ],
+      "logo_features": [
+         "text",
+         "animal",
+         "lion"
+      ],
+      "trophy": [
+         "title",
+         "cup"
+      ]
+   },
+   {
+      "name": [
+         "Dinamo",
+         "Dinamo Bucharest",
+         "Dynamo"
+      ],
+      "full_name": "Dinamo Bucharest",
+      "country": "Romania",
+      "continent": "Europe",
+      "zone": [
+         "East",
+         "Roman",
+         "Balkans"
+      ],
+      "kit_colors": [
+         "red",
+         "white"
+      ],
+      "logo_features": [
+         "animal",
+         "dog",
+         "star",
+         "text"
+      ],
+      "trophy": [
+         "title",
+         "cup"
+      ]
+   },
+   {
+      "name": [
+         "Rapid Bucharest",
+         "Rapid"
+      ],
+      "full_name": "Rapid Bucharest",
+      "country": "Romania",
+      "continent": "Europe",
+      "zone": [
+         "East",
+         "Roman",
+         "Balkans"
+      ],
+      "kit_colors": [
+         "white",
+         "burgundy",
+         "maroon"
+      ],
+      "logo_features": [
+         "animal",
+         "bird",
+         "eagle",
+         "text",
+         "ball"
+      ],
+      "trophy": [
+         "title",
+         "cup"
+      ]
+   },
+   {
+      "name": [
+         "U Cluj"
+      ],
+      "full_name": "Universitatea Cluj",
+      "country": "Romania",
+      "continent": "Europe",
+      "zone": [
+         "East",
+         "Roman",
+         "Balkans"
+      ],
+      "kit_colors": [
+         "white",
+         "black"
+      ],
+      "logo_features": [
+         "circle",
+         "letter",
+         "text"
+      ],
+      "trophy": [
+         "cup"
+      ]
+   },
+   {
+      "name": [
+         "Petrolul"
+      ],
+      "full_name": "Petrolul Ploiesti",
+      "country": "Romania",
+      "continent": "Europe",
+      "zone": [
+         "East",
+         "Roman",
+         "Balkans"
+      ],
+      "kit_colors": [
+         "yellow",
+         "blue"
+      ],
+      "logo_features": [
+         "shield",
+         "stripes",
+         "ball",
+         "text"
+      ],
+      "trophy": [
+         "title",
+         "cup"
+      ]
+   },
+   {
+      "name": [
+         "Sepsi"
+      ],
+      "full_name": "Sepsi OSK",
+      "country": "Romania",
+      "continent": "Europe",
+      "zone": [
+         "East",
+         "Roman",
+         "Balkans"
+      ],
+      "kit_colors": [
+         "red",
+         "white"
+      ],
+      "logo_features": [
+         "ball",
+         "flag",
+         "coat of arms",
+         "stripes"
+      ],
+      "trophy": [
+         "cup"
+      ]
+   },
+   {
+      "name": [
+         "Botosani"
+      ],
+      "full_name": "FC Botosani",
+      "country": "Romania",
+      "continent": "Europe",
+      "zone": [
+         "East",
+         "Roman",
+         "Balkans"
+      ],
+      "kit_colors": [
+         "red",
+         "white",
+         "blue"
+      ],
+      "logo_features": [
+         "animal",
+         "horse",
+         "mythology"
+      ],
+      "trophy": []
+   },
+   {
+      "name": [
+         "Iasi"
+      ],
+      "full_name": "Poli Iasi",
+      "country": "Romania",
+      "continent": "Europe",
+      "zone": [
+         "East",
+         "Roman",
+         "Balkans"
+      ],
+      "kit_colors": [
+         "blue",
+         "white"
+      ],
+      "logo_features": [
+         "horse",
+         "text",
+         "animal"
+      ],
+      "trophy": []
+   },
+   {
+      "name": [
+         "Hermannstadt",
+         "Sibiu"
+      ],
+      "full_name": "Hermannstadt",
+      "country": "Romania",
+      "continent": "Europe",
+      "zone": [
+         "East",
+         "Roman",
+         "Balkans"
+      ],
+      "kit_colors": [
+         "red",
+         "white"
+      ],
+      "logo_features": [
+         "ball",
+         "shield",
+         "text"
+      ],
+      "trophy": []
+   },
+   {
+      "name": [
+         "Otelul",
+         "Galati"
+      ],
+      "full_name": "Otelul Galati",
+      "country": "Romania",
+      "continent": "Europe",
+      "zone": [
+         "East",
+         "Roman",
+         "Balkans"
+      ],
+      "kit_colors": [
+         "white",
+         "blue",
+         "red"
+      ],
+      "logo_features": [
+         "circle",
+         "text",
+         "fountain"
+      ],
+      "trophy": [
+         "title"
+      ]
+   },
+   {
+      "name": [
+         "Farul",
+         "Viitorul",
+         "FCV"
+      ],
+      "full_name": "FCV Farul Constanta",
+      "country": "Romania",
+      "continent": "Europe",
+      "zone": [
+         "East",
+         "Roman",
+         "Balkans"
+      ],
+      "kit_colors": [
+         "white",
+         "blue"
+      ],
+      "logo_features": [
+         "ball",
+         "text",
+         "shield"
+      ],
+      "trophy": [
+         "title",
+         "cup"
+      ]
+   },
+   {
+      "name": [
+         "UTA",
+         "Arad"
+      ],
+      "full_name": "UTA Arad",
+      "country": "Romania",
+      "continent": "Europe",
+      "zone": [
+         "East",
+         "Roman",
+         "Balkans"
+      ],
+      "kit_colors": [
+         "red",
+         "white"
+      ],
+      "logo_features": [
+         "stripes",
+         "text"
+      ],
+      "trophy": [
+         "title",
+         "cup"
+      ]
+   },
+   {
+      "name": [
+         "Arges"
+      ],
+      "full_name": "FC Arges",
+      "country": "Romania",
+      "continent": "Europe",
+      "zone": [
+         "East",
+         "Roman",
+         "Balkans"
+      ],
+      "kit_colors": [
+         "purple",
+         "white"
+      ],
+      "logo_features": [
+         "animal",
+         "bird",
+         "eagle",
+         "ball"
+      ],
+      "trophy": [
+         "title"
+      ]
+   },
+   {
+      "name": [
+         "Csikszereda",
+         "Miercurea",
+         "Ciuc"
+      ],
+      "full_name": "Csikszereda Miercurea Ciuc",
+      "country": "Romania",
+      "continent": "Europe",
+      "zone": [
+         "East",
+         "Roman",
+         "Balkans"
+      ],
+      "kit_colors": [
+         "red",
+         "black"
+      ],
+      "logo_features": [
+         "circle",
+         "text",
+         "ball",
+         "coat of arms",
+         "flower"
+      ],
+      "trophy": []
+   }
+]

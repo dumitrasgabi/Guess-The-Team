@@ -1,0 +1,520 @@
+[
+    {
+      "name": [
+         "Benfica"
+      ],
+      "full_name": "SL Benfica",
+      "country": "Portugal",
+      "continent": "Europe",
+      "zone": [
+         "Iberia",
+         "South",
+         "West",
+         "Roman"
+      ],
+      "kit_colors": [
+         "red",
+         "white"
+      ],
+      "logo_features": [
+         "eagle",
+         "text",
+         "shield",
+         "animal",
+         "bird"
+      ],
+      "trophy": [
+         "ucl",
+         "title",
+         "cup"
+      ]
+   },
+   {
+      "name": [
+         "Porto"
+      ],
+      "full_name": "FC Porto",
+      "country": "Portugal",
+      "continent": "Europe",
+      "zone": [
+         "Iberia",
+         "South",
+         "West",
+         "Roman"
+      ],
+      "kit_colors": [
+         "blue",
+         "white"
+      ],
+      "logo_features": [
+         "dragon",
+         "text",
+         "shield",
+         "animal"
+      ],
+      "trophy": [
+         "ucl",
+         "uel",
+         "title",
+         "cup",
+         "uefa super cup",
+         "club world cup"
+      ]
+   },
+   {
+      "name": [
+         "Sporting"
+      ],
+      "full_name": "Sporting CP",
+      "country": "Portugal",
+      "continent": "Europe",
+      "zone": [
+         "West",
+         "South",
+         "Roman",
+         "Iberia"
+      ],
+      "kit_colors": [
+         "green",
+         "white",
+         "black"
+      ],
+      "logo_features": [
+         "shield",
+         "animal",
+         "lion",
+         "text",
+         "stripes"
+      ],
+      "trophy": [
+         "cup winners cup",
+         "title",
+         "cup"
+      ]
+   },
+      {
+      "name": [
+         "Braga"
+      ],
+      "full_name": "SC Braga",
+      "country": "Portugal",
+      "continent": "Europe",
+      "zone": [
+         "West",
+         "Iberia",
+         "South",
+         "Roman"
+      ],
+      "kit_colors": [
+         "Red",
+         "White"
+      ],
+      "logo_features": [
+         "castle",
+         "tower",
+         "shield",
+         "text",
+         "coat of arms",
+         "human"
+      ],
+      "trophy": [
+         "intertoto",
+         "cup"
+      ]
+   },
+   {
+      "name": [
+         "Famalicao"
+      ],
+      "full_name": "FC Famalicao",
+      "country": "Portugal",
+      "continent": "Europe",
+      "zone": [
+         "West",
+         "Iberia",
+         "South",
+         "Roman"
+      ],
+      "kit_colors": [
+         "white",
+         "yellow",
+         "navy",
+         "blue"
+      ],
+      "logo_features": [
+         "shield",
+         "letters",
+         "text",
+         "plant"
+      ],
+      "trophy": [
+         ""
+      ]
+   },
+   {
+      "name": [
+         "Rio Ave"
+      ],
+      "full_name": "Rio Ave FC",
+      "country": "Portugal",
+      "continent": "Europe",
+      "zone": [
+         "West",
+         "Iberia",
+         "South",
+         "Roman"
+      ],
+      "kit_colors": [
+         "green",
+         "white",
+         "black",
+         "orange"
+      ],
+      "logo_features": [
+         "ship",
+         "ball",
+         "castle",
+         "letters"
+      ],
+      "trophy": [
+         ""
+      ]
+   },
+   {
+      "name": [
+         "Santa Clara"
+      ],
+      "full_name": "CD Santa Clara",
+      "country": "Portugal",
+      "continent": "Europe",
+      "zone": [
+         "West",
+         "Iberia",
+         "South",
+         "Roman"
+      ],
+      "kit_colors": [
+         "red",
+         "white"
+      ],
+      "logo_features": [
+         "animal",
+         "bird",
+         "eagle",
+         "text",
+         "star",
+         "shield"
+      ],
+      "trophy": [
+         ""
+      ]
+   },
+   {
+      "name": [
+         "Alverca"
+      ],
+      "full_name": "FC Alverca",
+      "country": "Portugal",
+      "continent": "Europe",
+      "zone": [
+         "West",
+         "Iberia",
+         "South",
+         "Roman"
+      ],
+      "kit_colors": [
+         "blue",
+         "red",
+         "yellow"
+      ],
+      "logo_features": [
+         "castle",
+         "ball",
+         "moon",
+         "letters",
+         "coat of arms"
+      ],
+      "trophy": [
+         ""
+      ]
+   },
+   {
+      "name": [
+         "Estoril Praia"
+      ],
+      "full_name": "GD Estoril Praia",
+      "country": "Portugal",
+      "continent": "Europe",
+      "zone": [
+         "West",
+         "Iberia",
+         "South",
+         "Roman"
+      ],
+      "kit_colors": [
+         "yellow",
+         "blue",
+         "cyan"
+      ],
+      "logo_features": [
+         "sun",
+         "monogram",
+         "letters"
+      ],
+      "trophy": [
+         ""
+      ]
+   },
+   {
+      "name": [
+         "Gil Vicente"
+      ],
+      "full_name": "Gil Vicente FC",
+      "country": "Portugal",
+      "continent": "Europe",
+      "zone": [
+         "West",
+         "Iberia",
+         "South",
+         "Roman"
+      ],
+      "kit_colors": [
+         "red",
+         "blue",
+         "white"
+      ],
+      "logo_features": [
+         "shield",
+         "coat of arms",
+         "text",
+         "letters"
+      ],
+      "trophy": [
+         ""
+      ]
+   },
+   {
+      "name": [
+         "Guimaraes"
+      ],
+      "full_name": "Vitoria Guimaraes SC",
+      "country": "Portugal",
+      "continent": "Europe",
+      "zone": [
+         "West",
+         "Iberia",
+         "South",
+         "Roman"
+      ],
+      "kit_colors": [
+         "black",
+         "white"
+      ],
+      "logo_features": [
+         "shield",
+         "text",
+         "letters",
+         "monogram",
+         "human"
+      ],
+      "trophy": [
+         "cup"
+      ]
+   },
+   {
+      "name": [
+         "Arouca"
+      ],
+      "full_name": "FC Arouca",
+      "country": "Portugal",
+      "continent": "Europe",
+      "zone": [
+         "West",
+         "Iberia",
+         "South",
+         "Roman"
+      ],
+      "kit_colors": [
+         "yellow"
+      ],
+      "logo_features": [
+         "coat of arms",
+         "castle",
+         "letters",
+         "human",
+         "plant",
+         "ball"
+      ],
+      "trophy": [
+         ""
+      ]
+   },
+   {
+      "name": [
+         "Casa Pia"
+      ],
+      "full_name": "Casa Pia AC",
+      "country": "Portugal",
+      "continent": "Europe",
+      "zone": [
+         "West",
+         "Iberia",
+         "South",
+         "Roman"
+      ],
+      "kit_colors": [
+         "black"
+      ],
+      "logo_features": [
+         "cross",
+         "shield",
+         "letters"
+      ],
+      "trophy": [
+         ""
+      ]
+   },
+   {
+      "name": [
+         "Moreirense"
+      ],
+      "full_name": "Moreirense FC",
+      "country": "Portugal",
+      "continent": "Europe",
+      "zone": [
+         "West",
+         "Iberia",
+         "South",
+         "Roman"
+      ],
+      "kit_colors": [
+         "green",
+         "white"
+      ],
+      "logo_features": [
+         "shield",
+         "letters",
+         "wings"
+      ],
+      "trophy": [
+         ""
+      ]
+   },
+   {
+      "name": [
+         "Nacional"
+      ],
+      "full_name": "CD Nacional",
+      "country": "Portugal",
+      "continent": "Europe",
+      "zone": [
+         "West",
+         "Iberia",
+         "South",
+         "Roman"
+      ],
+      "kit_colors": [
+         "pink",
+         "yellow",
+         "white",
+         "black"
+      ],
+      "logo_features": [
+         "circle",
+         "ball",
+         "monogram",
+         "stripes",
+         "text"
+      ],
+      "trophy": [
+         ""
+      ]
+   },
+   {
+      "name": [
+         "Tondela"
+      ],
+      "full_name": "CD Tondela",
+      "country": "Portugal",
+      "continent": "Europe",
+      "zone": [
+         "West",
+         "Iberia",
+         "South",
+         "Roman"
+      ],
+      "kit_colors": [
+         "green",
+         "yellow"
+      ],
+      "logo_features": [
+         "shield",
+         "letters",
+         "stripes",
+         "text"
+      ],
+      "trophy": [
+         ""
+      ]
+   },
+   {
+      "name": [
+         "Estrela",
+         "Amadora"
+      ],
+      "full_name": "CF Estrela Amadora",
+      "country": "Portugal",
+      "continent": "Europe",
+      "zone": [
+         "West",
+         "Iberia",
+         "South",
+         "Roman"
+      ],
+      "kit_colors": [
+         "maroon",
+         "white",
+         "green",
+         "red",
+         "yellow"
+      ],
+      "logo_features": [
+         "shield",
+         "star",
+         "letters",
+         "stripes"
+      ],
+      "trophy": [
+         "cup"
+      ]
+   },
+   {
+      "name": [
+         "Avs Futebol"
+      ],
+      "full_name": "AVS Futebol SAD",
+      "country": "Portugal",
+      "continent": "Europe",
+      "zone": [
+         "West",
+         "Iberia",
+         "South",
+         "Roman"
+      ],
+      "kit_colors": [
+         "red",
+         "white"
+      ],
+      "logo_features": [
+         "animal",
+         "bird",
+         "eagle",
+         "wings",
+         "letters",
+         "shield"
+      ],
+      "trophy": [
+         ""
+      ]
+   }
+]

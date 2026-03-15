@@ -1,0 +1,447 @@
+[
+    {
+      "name": [
+         "Crvena",
+         "Zvezda",
+         "Red Star"
+      ],
+      "full_name": "FK Crvena Zvezda",
+      "country": "Serbia",
+      "continent": "Europe",
+      "zone": [
+         "East",
+         "Balkans",
+         "Slavic"
+      ],
+      "kit_colors": [
+         "red",
+         "white"
+      ],
+      "logo_features": [
+         "star",
+         "letter",
+         "shield"
+      ],
+      "trophy": [
+         "ucl",
+         "club world cup",
+         "title",
+         "cup"
+      ]
+   },
+   {
+      "name": [
+         "Partizan"
+      ],
+      "full_name": "FK Partizan Belgrade",
+      "country": "Serbia",
+      "continent": "Europe",
+      "zone": [
+         "East",
+         "Balkans",
+         "Slavic"
+      ],
+      "kit_colors": [
+         "black",
+         "white"
+      ],
+      "logo_features": [
+         "circle",
+         "text",
+         "star"
+      ],
+      "trophy": [
+         "title",
+         "cup"
+      ]
+   },
+   {
+      "name": [
+         "TSC",
+         "Backa",
+         "Topola"
+      ],
+      "full_name": "TSC Backa Topola",
+      "country": "Serbia",
+      "continent": "Europe",
+      "zone": [
+         "East",
+         "Balkans",
+         "Slavic"
+      ],
+      "kit_colors": [
+         "blue",
+         "white"
+      ],
+      "logo_features": [
+         "circle",
+         "text",
+         "stripes"
+      ],
+      "trophy": []
+   },
+   {
+      "name": [
+         "Vojvodina",
+         "Novi Sad"
+      ],
+      "full_name": "FK Vojvodina Novi Sad",
+      "country": "Serbia",
+      "continent": "Europe",
+      "zone": [
+         "East",
+         "Balkans",
+         "Slavic"
+      ],
+      "kit_colors": [
+         "Red",
+         "White"
+      ],
+      "logo_features": [
+         "Shield",
+         "Text",
+         "Letters",
+         "Star"
+      ],
+      "trophy": [
+         "Title",
+         "Cup",
+         "Intertoto"
+      ]
+   },
+   {
+      "name": [
+         "OFK",
+         "Beograd",
+         "Belgrade"
+      ],
+      "full_name": "OFK Beograd",
+      "country": "Serbia",
+      "continent": "Europe",
+      "zone": [
+         "East",
+         "Balkans",
+         "Slavic"
+      ],
+      "kit_colors": [
+         "White",
+         "Blue"
+      ],
+      "logo_features": [
+         "Castle",
+         "Stripes",
+         "Letters",
+         "Text"
+      ],
+      "trophy": [
+         "Title",
+         "Cup"
+      ]
+   },
+   {
+      "name": [
+         "Cukaricki"
+      ],
+      "full_name": "FK Cukaricki",
+      "country": "Serbia",
+      "continent": "Europe",
+      "zone": [
+         "East",
+         "Balkans",
+         "Slavic"
+      ],
+      "kit_colors": [
+         "White",
+         "Black"
+      ],
+      "logo_features": [
+         "Shield",
+         "Text",
+         "Letters"
+      ],
+      "trophy": [
+         "Cup"
+      ]
+   },
+      {
+      "name": [
+         "Radnicki"
+      ],
+      "full_name": "FK Radnicki 1923 Kragujevac",
+      "country": "Serbia",
+      "continent": "Europe",
+      "zone": [
+         "Balkans",
+         "East",
+         "Slavic"
+      ],
+      "kit_colors": [
+         "Red",
+         "White"
+      ],
+      "logo_features": [
+         "Animal. bird",
+         "eagle",
+         "letters",
+         "text"
+      ],
+      "trophy": [
+         ""
+      ]
+   },
+   {
+      "name": [
+         "Radnicki Nis"
+      ],
+      "full_name": "FK Radnicki Nis",
+      "country": "Serbia",
+      "continent": "Europe",
+      "zone": [
+         "Balkans",
+         "East",
+         "Slavic"
+      ],
+      "kit_colors": [
+         "Red",
+         "White"
+      ],
+      "logo_features": [
+         "Castle",
+         "shield",
+         "letters",
+         "text"
+      ],
+      "trophy": [
+         ""
+      ]
+   },
+   {
+      "name": [
+         "IMT",
+         "Belgrad"
+      ],
+      "full_name": "FK IMT Belgrade",
+      "country": "Serbia",
+      "continent": "Europe",
+      "zone": [
+         "Balkans",
+         "East",
+         "Slavic"
+      ],
+      "kit_colors": [
+         "red",
+         "white",
+         "black"
+      ],
+      "logo_features": [
+         "circle",
+         "text",
+         "letters",
+         "animal",
+         "bull"
+      ],
+      "trophy": [
+         ""
+      ]
+   },
+   {
+      "name": [
+         "Zeleznicar"
+      ],
+      "full_name": "FK Zeleznicar Pancevo",
+      "country": "Serbia",
+      "continent": "Europe",
+      "zone": [
+         "Balkans",
+         "East",
+         "Slavic"
+      ],
+      "kit_colors": [
+         "blue",
+         "cyan",
+         "white"
+      ],
+      "logo_features": [
+         "text",
+         "letters",
+         "ball",
+         "plant",
+         "eagle",
+         "bird",
+         "animal"
+      ],
+      "trophy": [
+         ""
+      ]
+   },
+   {
+      "name": [
+         "Napredak"
+      ],
+      "full_name": "FK Napredak Krusevac",
+      "country": "Serbia",
+      "continent": "Europe",
+      "zone": [
+         "Balkans",
+         "East",
+         "Slavic"
+      ],
+      "kit_colors": [
+         "red",
+         "white"
+      ],
+      "logo_features": [
+         "shield",
+         "ball",
+         "letters",
+         "text",
+         "crown"
+      ],
+      "trophy": [
+         ""
+      ]
+   },
+   {
+      "name": [
+         "Novi Pazar"
+      ],
+      "full_name": "FK Novi Pazar",
+      "country": "Serbia",
+      "continent": "Europe",
+      "zone": [
+         "Balkans",
+         "East",
+         "Slavic"
+      ],
+      "kit_colors": [
+         "blue",
+         "white"
+      ],
+      "logo_features": [
+         "shield",
+         "text",
+         "letters",
+         "ball",
+         "ribbon"
+      ],
+      "trophy": [
+         ""
+      ]
+   },
+   {
+      "name": [
+         "Javor",
+         "Matis",
+         "Ivanjica"
+      ],
+      "full_name": "FK Javor-Matis Ivanjica",
+      "country": "Serbia",
+      "continent": "Europe",
+      "zone": [
+         "Balkans",
+         "East",
+         "Slavic"
+      ],
+      "kit_colors": [
+         "white",
+         "red"
+      ],
+      "logo_features": [
+         "plant",
+         "wheat",
+         "ball",
+         "text",
+         "letters",
+         "shield"
+      ],
+      "trophy": [
+         ""
+      ]
+   },
+   {
+      "name": [
+         "Spartak Subotica"
+      ],
+      "full_name": "FK Spartac Subotica",
+      "country": "Serbia",
+      "continent": "Europe",
+      "zone": [
+         "Balkans",
+         "East",
+         "Slavic"
+      ],
+      "kit_colors": [
+         "blue",
+         "white",
+         "cyan"
+      ],
+      "logo_features": [
+         "star",
+         "ball",
+         "text",
+         "letters",
+         "bird",
+         "animal"
+      ],
+      "trophy": [
+         ""
+      ]
+   },
+   {
+      "name": [
+         "Radnik Surdulica"
+      ],
+      "full_name": "FK Radnik Surdulica",
+      "country": "Serbia",
+      "continent": "Europe",
+      "zone": [
+         "Balkans",
+         "East",
+         "Slavic"
+      ],
+      "kit_colors": [
+         "blue",
+         "white",
+         "cyan"
+      ],
+      "logo_features": [
+         "ball",
+         "stripes",
+         "text",
+         "letters",
+         "shield"
+      ],
+      "trophy": [
+         ""
+      ]
+   },
+   {
+      "name": [
+         "Mladost Lucani"
+      ],
+      "full_name": "FK Mladost Lucani",
+      "country": "Serbia",
+      "continent": "Europe",
+      "zone": [
+         "Balkans",
+         "East",
+         "Slavic"
+      ],
+      "kit_colors": [
+         "blue",
+         "white",
+         "cyan"
+      ],
+      "logo_features": [
+         "shield",
+         "letters",
+         "text",
+         "ball",
+         "ribbon",
+         "stripes"
+      ],
+      "trophy": [
+         ""
+      ]
+   }
+]

@@ -1,0 +1,593 @@
+[
+    {
+      "name": [
+         "Liverpool"
+      ],
+      "full_name": "Liverpool FC",
+      "country": "England",
+      "continent": "Europe",
+      "zone": [
+         "West",
+         "British",
+         "Saxon",
+         "Island"
+      ],
+      "kit_colors": [
+         "red"
+      ],
+      "logo_features": [
+         "liver bird",
+         "bird",
+         "text",
+         "animal"
+      ],
+      "trophy": [
+         "ucl",
+         "uel",
+         "title",
+         "cup",
+         "uefa super cup"
+      ]
+   },
+   {
+      "name": [
+         "Manchester United",
+         "Manchester Utd",
+         "Man Utd",
+         "United",
+         "Man U"
+      ],
+      "full_name": "Manchester United FC",
+      "country": "England",
+      "continent": "Europe",
+      "zone": [
+         "West",
+         "British",
+         "Saxon",
+         "Island"
+      ],
+      "kit_colors": [
+         "red",
+         "white",
+         "black"
+      ],
+      "logo_features": [
+         "devil",
+         "ship",
+         "text"
+      ],
+      "trophy": [
+         "ucl",
+         "uel",
+         "title",
+         "cup",
+         "uefa super cup",
+         "club world cup"
+      ]
+   },
+   {
+      "name": [
+         "Arsenal"
+      ],
+      "full_name": "Arsenal",
+      "country": "England",
+      "continent": "Europe",
+      "zone": [
+         "West",
+         "British",
+         "Saxon",
+         "Island"
+      ],
+      "kit_colors": [
+         "red",
+         "white"
+      ],
+      "logo_features": [
+         "cannon",
+         "text",
+         "shield"
+      ],
+      "trophy": [
+         "cup winners cup",
+         "title",
+         "cup"
+      ]
+   },
+   {
+      "name": [
+         "Chelsea"
+      ],
+      "full_name": "Chelsea FC",
+      "country": "England",
+      "continent": "Europe",
+      "zone": [
+         "West",
+         "British",
+         "Saxon",
+         "Island"
+      ],
+      "kit_colors": [
+         "blue",
+         "white"
+      ],
+      "logo_features": [
+         "lion",
+         "text",
+         "animal"
+      ],
+      "trophy": [
+         "ucl",
+         "uel",
+         "title",
+         "cup",
+         "uefa super cup",
+         "club world cup",
+         "uecl"
+      ]
+   },
+   {
+      "name": [
+         "Newcastle"
+      ],
+      "full_name": "Newcastle United FC",
+      "country": "England",
+      "continent": "Europe",
+      "zone": [
+         "West",
+         "British",
+         "Saxon",
+         "Island"
+      ],
+      "kit_colors": [
+         "white",
+         "black"
+      ],
+      "logo_features": [
+         "mythologic",
+         "stripes",
+         "flag",
+         "shield",
+         "lion",
+         "horse",
+         "text",
+         "animal"
+      ],
+      "trophy": [
+         "title",
+         "cup"
+      ]
+   },
+   {
+      "name": [
+         "Manchester City",
+         "City",
+         "Man City"
+      ],
+      "full_name": "Manchester City",
+      "country": "England",
+      "continent": "Europe",
+      "zone": [
+         "West",
+         "British",
+         "Saxon",
+         "Island"
+      ],
+      "kit_colors": [
+         "cyan",
+         "blue",
+         "white"
+      ],
+      "logo_features": [
+         "ship",
+         "circle",
+         "shield",
+         "text"
+      ],
+      "trophy": [
+         "ucl",
+         "uefa super cup",
+         "title",
+         "cup winners cup",
+         "cup",
+         "club world cup"
+      ]
+   },
+   {
+      "name": [
+         "Aston Villa",
+         "Villa"
+      ],
+      "full_name": "Aston Villa",
+      "country": "England",
+      "continent": "Europe",
+      "zone": [
+         "West",
+         "British",
+         "Saxon",
+         "Island"
+      ],
+      "kit_colors": [
+         "maroon",
+         "burgundy",
+         "blue",
+         "cyan",
+         "white"
+      ],
+      "logo_features": [
+         "lion",
+         "text",
+         "animal"
+      ],
+      "trophy": [
+         "ucl",
+         "title",
+         "cup",
+         "uefa super cup"
+      ]
+   },
+   {
+      "name": [
+         "Nottingham Forest",
+         "Forest",
+         "Nottingham",
+         "Nottm Forest"
+      ],
+      "full_name": "Nottingham Forest",
+      "country": "England",
+      "continent": "Europe",
+      "zone": [
+         "West",
+         "British",
+         "Saxon",
+         "Island"
+      ],
+      "kit_colors": [
+         "red",
+         "white"
+      ],
+      "logo_features": [
+         "tree",
+         "text",
+         "star"
+      ],
+      "trophy": [
+         "ucl",
+         "uefa super cup"
+      ]
+   },
+   {
+      "name": [
+         "Brentford"
+      ],
+      "full_name": "Brentford",
+      "country": "England",
+      "continent": "Europe",
+      "zone": [
+         "West",
+         "British",
+         "Saxon",
+         "Island"
+      ],
+      "kit_colors": [
+         "red",
+         "white",
+         "black"
+      ],
+      "logo_features": [
+         "bee",
+         "text",
+         "circle",
+         "animal"
+      ],
+      "trophy": []
+   },
+   {
+      "name": [
+         "Brighton",
+         "BHA"
+      ],
+      "full_name": "Brighton & Hove Albion",
+      "country": "England",
+      "continent": "Europe",
+      "zone": [
+         "West",
+         "British",
+         "Saxon",
+         "Island"
+      ],
+      "kit_colors": [
+         "blue",
+         "white"
+      ],
+      "logo_features": [
+         "bird",
+         "seagull",
+         "circle",
+         "text",
+         "animal"
+      ],
+      "trophy": []
+   },
+   {
+      "name": [
+         "Tottenham",
+         "Spurs",
+         "Tottenham Hotspur"
+      ],
+      "full_name": "Tottenham Hotspur",
+      "country": "England",
+      "continent": "Europe",
+      "zone": [
+         "West",
+         "British",
+         "Saxon",
+         "Island"
+      ],
+      "kit_colors": [
+         "white",
+         "navy"
+      ],
+      "logo_features": [
+         "text",
+         "bird",
+         "animal"
+      ],
+      "trophy": [
+         "uel",
+         "title",
+         "cup",
+         "cup winners cup",
+         "uel"
+      ]
+   },
+   {
+      "name": [
+         "West Ham United",
+         "West Ham"
+      ],
+      "full_name": "West Ham United",
+      "country": "England",
+      "continent": "Europe",
+      "zone": [
+         "West",
+         "British",
+         "Saxon",
+         "Island"
+      ],
+      "kit_colors": [
+         "burgundy",
+         "maroon",
+         "white",
+         "blue",
+         "cyan"
+      ],
+      "logo_features": [
+         "hammer",
+         "shield",
+         "text"
+      ],
+      "trophy": [
+         "uecl",
+         "cup winners cup",
+         "cup"
+      ]
+   },
+   {
+      "name": [
+         "Leicester City",
+         "Leicester"
+      ],
+      "full_name": "Leicester City",
+      "country": "England",
+      "continent": "Europe",
+      "zone": [
+         "West",
+         "British",
+         "Saxon",
+         "Island"
+      ],
+      "kit_colors": [
+         "blue",
+         "white"
+      ],
+      "logo_features": [
+         "fox",
+         "animal",
+         "circle",
+         "text"
+      ],
+      "trophy": [
+         "title",
+         "cup"
+      ]
+   },
+   {
+      "name": [
+         "Everton"
+      ],
+      "full_name": "Everton",
+      "country": "England",
+      "continent": "Europe",
+      "zone": [
+         "West",
+         "British",
+         "Saxon",
+         "Island"
+      ],
+      "kit_colors": [
+         "blue",
+         "white"
+      ],
+      "logo_features": [
+         "castle",
+         "text",
+         "shield"
+      ],
+      "trophy": [
+         "cup winners cup",
+         "title",
+         "cup"
+      ]
+   },
+   {
+      "name": [
+         "Bournemouth"
+      ],
+      "full_name": "AFC Bournemouth",
+      "country": "England",
+      "continent": "Europe",
+      "zone": [
+         "West",
+         "British",
+         "Saxon",
+         "Island"
+      ],
+      "kit_colors": [
+         "red",
+         "black"
+      ],
+      "logo_features": [
+         "human",
+         "mythology",
+         "stripes",
+         "text"
+      ],
+      "trophy": []
+   },
+   {
+      "name": [
+         "Wolves",
+         "Wolverhampton"
+      ],
+      "full_name": "Wolverhampton Wanderers",
+      "country": "England",
+      "continent": "Europe",
+      "zone": [
+         "West",
+         "British",
+         "Saxon",
+         "Island"
+      ],
+      "kit_colors": [
+         "Orange",
+         "Black"
+      ],
+      "logo_features": [
+         "animal",
+         "wolf"
+      ],
+      "trophy": [
+         "title",
+         "cup"
+      ]
+   },
+   {
+      "name": [
+         "Fulham"
+      ],
+      "full_name": "Fulham",
+      "country": "England",
+      "continent": "Europe",
+      "zone": [
+         "saxon",
+         "island",
+         "british",
+         "west"
+      ],
+      "kit_colors": [
+         "black",
+         "white"
+      ],
+      "logo_features": [
+         "letter",
+         "monogram",
+         "stripes"
+      ],
+      "trophy": []
+   },
+   {
+      "name": [
+         "Crystal Palace",
+         "Palace"
+      ],
+      "full_name": "Crystal Palace",
+      "country": "England",
+      "continent": "Europe",
+      "zone": [
+         "saxon",
+         "island",
+         "british",
+         "west"
+      ],
+      "kit_colors": [
+         "red",
+         "blue"
+      ],
+      "logo_features": [
+         "bird",
+         "animal",
+         "eagle",
+         "text",
+         "castle"
+      ],
+      "trophy": []
+   },
+   {
+      "name": [
+         "Ipswich"
+      ],
+      "full_name": "Ipswich Town",
+      "country": "England",
+      "continent": "Europe",
+      "zone": [
+         "saxon",
+         "island",
+         "british",
+         "west"
+      ],
+      "kit_colors": [
+         "Blue",
+         "White"
+      ],
+      "logo_features": [
+         "animal",
+         "horse",
+         "text",
+         "ball"
+      ],
+      "trophy": [
+         "uel",
+         "title",
+         "cup"
+      ]
+   },
+   {
+      "name": [
+         "Southampton",
+         "Soton",
+         "The Saints"
+      ],
+      "full_name": "Southampton",
+      "country": "England",
+      "continent": "Europe",
+      "zone": [
+         "saxon",
+         "island",
+         "british",
+         "west"
+      ],
+      "kit_colors": [
+         "red",
+         "white"
+      ],
+      "logo_features": [
+         "text",
+         "ball",
+         "tree",
+         "halo"
+      ],
+      "trophy": [
+         "cup"
+      ]
+   }
+]
